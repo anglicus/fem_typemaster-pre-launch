@@ -57,7 +57,7 @@ I will continue working on my front end development skills, especially learning 
 
 ### Useful resources
 
-- [CSS Tricks - Color Filters](https://css-tricks.com/color-filters-can-turn-your-gray-skies-blue/) - I found this a neat trick to add the orange color to the third picture of the keyboard. Using a background color and opacity works, but makes the image look too washed out.
+- [CSS Tricks - Color Filters](https://css-tricks.com/color-filters-can-turn-your-gray-skies-blue/) - I found this a neat trick to add the orange color to the second picture of the keyboard. Using a background color and opacity works, but makes the image look too washed out.
 
 ## Author
 
