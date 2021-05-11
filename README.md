@@ -28,9 +28,9 @@ Your users should be able to:
 
 ### Screenshots
 
-![Mobile](/screenshots/screenshot-mobile.jpg)
-![Tablet](/screenshots/screenshot-tablet.jpg)
-![Desktop](/screenshots/screenshot-desktop.jpg)
+![Mobile](screenshots/screenshot-mobile.jpg)
+![Tablet](screenshots/screenshot-tablet.jpg)
+![Desktop](screenshots/screenshot-desktop.jpg)
 
 ### Links
 
